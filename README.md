@@ -1,7 +1,4 @@
 
-<img align="left" alt="Avatar" src="https://hatesh.000webhostapp.com/Portfolio/img/profile.jpeg" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-right: 20px;">
-
-
 <h1 align="left">Hatesh Kumar</h1>
 <h3 align="left">Senior Mobile Engineer</h3>
 
