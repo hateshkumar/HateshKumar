@@ -1,13 +1,9 @@
 
 - 🔭 I'm immersed in the development of cutting-edge [Mobile Apps](https://hateshkumar.netlify.app/)
 
-- 🤖 Currently diving into **Artificial intelligence, Machine learning**
-
 - 🔭 I’m currently working at [Rabble Inc](https://www.rabble.market/)
 
-- 🤝 I’m looking for help with [Flutter apps](https://flutter.dev/)
-
-- 👨‍💻 All of my projects are available at [https://bit.ly/442cigx](https://bit.ly/442cigx)
+- 🤖 Currently diving into **Artificial intelligence, Machine learning**
 
 - 💬 Ask me about **Kotlin, Java, Dart, SwiftUI,**
 
