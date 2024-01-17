@@ -1,13 +1,9 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hateshkumar&label=Profile%20views&color=0e75b6&style=flat" alt="hateshkumar" /> </p>
-
-<p align="left"> <a href="https://twitter.com/2fhatesh_k" target="blank"><img src="https://img.shields.io/twitter/follow/2fhatesh_k?logo=twitter&style=for-the-badge" alt="2fhatesh_k" /></a> </p>
-
 - 🔭 I'm immersed in the development of cutting-edge [Mobile Apps](https://hateshkumar.netlify.app/)
 
 - 🤖 Currently diving into **Artificial intelligence, Machine learning**
 
-- 🔭 I’m currently working on [Rabble Inc](https://apps.apple.com/gb/app/rabble/id6450045487)
+- 🔭 I’m currently working at [Rabble Inc](https://www.rabble.market/)
 
 - 🤝 I’m looking for help with [Flutter apps](https://flutter.dev/)
 
@@ -17,13 +13,11 @@
 
 - 📫 How to reach me **Hateshkumar701@gmail.com**
 
-- 📄 Know about my experiences [https://hatesh.000webhostapp.com/CV%20OUT/Hatesh-kumar-CV.pdf](https://hatesh.000webhostapp.com/CV%20OUT/Hatesh-kumar-CV.pdf)
+- 📄 Know about my experiences [Donwload CV](https://hatesh.000webhostapp.com/CV%20OUT/Hatesh-kumar-CV.pdf)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/2fhatesh_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="2fhatesh_k" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hatesh-kumar-479212113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hatesh-kumar-479212113/" height="30" width="40" /></a>
-</p>
+
+<p dir="auto"><a href="https://www.linkedin.com/in/hatesh-kumar-479212113/" rel="nofollow"><img src="https://camo.githubusercontent.com/d94940866c98cb4fca5783c4e8ac95776d2f52df6bbf3d5ab9e30d76836f30ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://twitter.com/Hatesh_K" rel="nofollow"><img src="https://camo.githubusercontent.com/2fc85cf3646091660daac9224ef6fcc91f25fbbf6cc729740256a6063183f5b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2532333144413146322e7376673f6c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter" data-canonical-src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&amp;logoColor=white" style="max-width: 100%;"></a></p>
+
 
 <h1 align="left">Innovative Mobile Experiences I Crafted</h1>
 
