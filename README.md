@@ -1,7 +1,7 @@
 
 - 🔭 I'm immersed in the development of cutting-edge [Mobile Apps](https://hateshkumar.netlify.app/)
 
-- 🔭 I’m currently working at [Rabble Inc](https://www.rabble.market/)
+- 🔭 I’m currently working at [ePlanet Global](https://eplanetglobal.com/)
 
 - 🤖 Currently diving into **Artificial intelligence, Machine learning**
 
